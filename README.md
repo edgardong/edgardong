@@ -1,14 +1,23 @@
-### Hi there 👋
+### 哈喽，大家好 👋
 
-**edgardong/edgardong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+鄙人董浩，一个``有梦想的``前端开发工程师
 
-Here are some ideas to get you started:
+最近喜欢研究koa2、可视化的网页制作，所以有了xscms这个项目
+之前有个博客项目，使用nuxt.js开发的，已经上线了一部分 -- [前沿技术网](https://www.quzhaota.cn/)
+但是因为之前太忙没顾上，所以还留有不少的bug 😂😂  后续再慢慢完善
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 我会的技术
+
+| 技术名|掌握程度|备注|说明|
+|  ----  | ----  | ---- | --- |
+|jquery|🌟| --- | --- |
+|node| 🌟🌟🌟 | --- | -- |
+|vue|🌟🌟🌟🌟|---|---|
+|react|🌟🌟🌟|---|--|
+|react-native|🌟🌟|--|--|
+|uni-app|🌟🌟🌟|--|---|
+|miniprograme|🌟🌟🌟🌟|--|--|
+|html5|🌟🌟🌟🌟|---|--|
+|css3|🌟🌟🌟🌟|---|---|
+|csharp|🌟🌟|---|--|
+|sql|🌟🌟| --- | --- |

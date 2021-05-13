@@ -1,7 +1,8 @@
 ### 哈喽，大家好 👋
 
 ### 我的成就
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=edgardong&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=edgardong&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 
 #### 🤗🤗  你一定会成为你想的那个人  🤗🤗

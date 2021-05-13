@@ -1,10 +1,5 @@
 ### 哈喽，大家好 👋
 
-### 我的成就
-
-<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=edgardong&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
-
 #### 🤗🤗  你一定会成为你想的那个人  🤗🤗
 
 本人董浩，一个``有梦想的``前端开发工程师
@@ -15,7 +10,10 @@
 
 但是因为之前太忙没顾上，所以还留有不少的bug 😂😂  后续再慢慢完善
 
+### 我的成就
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=edgardong&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### 我会的技术
 

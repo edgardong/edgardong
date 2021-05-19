@@ -15,6 +15,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=edgardong&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgardong&layout=compact&theme=radical" />
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 ### 我会的技术
 
 | 技术名|掌握程度|备注|说明|
